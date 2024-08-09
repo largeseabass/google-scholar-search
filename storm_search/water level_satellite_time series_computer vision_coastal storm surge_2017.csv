@@ -1,0 +1,27 @@
+title,abstract,year,citationCount,url,paperId,authors
+"Investigating compound flooding in an estuary using hydrodynamic modelling: a case study from the Shoalhaven River, Australia","Abstract. Many previous modelling studies have considered
+storm-tide and riverine flooding independently, even though
+joint-probability analysis highlighted significant dependence between
+extreme rainfall and extreme storm surges in estuarine environments. This
+study investigates compound flooding by quantifying horizontal and vertical
+differences in coastal flood risk estimates resulting from a separation of
+storm-tide and riverine flooding processes. We used an open-source version
+of the Delft3D model to simulate flood extent and inundation depth due to a
+storm event that occurred in June 2016 in the Shoalhaven Estuary,
+south-eastern
+Australia. Time series of observed water levels and discharge measurements
+are used to force model boundaries, whereas observational data such as
+satellite imagery, aerial photographs, tidal gauges and water level logger
+measurements are used to validate modelling results. The comparison of
+simulation results including and excluding riverine discharge demonstrated
+large differences in modelled flood extents and inundation depths. A flood
+risk assessment accounting only for storm-tide flooding would have
+underestimated the flood extent of the June 2016 storm event by 30 %
+(20.5 km 2 ). Furthermore, inundation depths would have been
+underestimated on average by 0.34 m and by up to 1.5 m locally. We recommend
+considering storm-tide and riverine flooding processes jointly in estuaries
+with large catchment areas, which are known to have a quick response time to
+extreme rainfall. In addition, comparison of different boundary set-ups at
+the intermittent entrance in Shoalhaven Heads indicated that a permanent
+opening, in order to reduce exposure to riverine flooding, would increase
+tidal range and exposure to both storm-tide flooding and wave action.",2017,112,https://www.semanticscholar.org/paper/9cb0a37b5345291465b7248408d1d8e5c3221c4c,9cb0a37b5345291465b7248408d1d8e5c3221c4c,"K. Kumbier, R. Carvalho, A. Vafeidis, C. Woodroffe"
